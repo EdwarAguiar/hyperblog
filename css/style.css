@@ -1,5 +1,5 @@
 body {
-    background: #1e1f24;
+    background: white;
     color:#333;
     text-align: center;
     font-family: Arial;
@@ -41,7 +41,18 @@ body {
     font-size: 20px;
 }
 
+#footer{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    background: #777;
+    color: white;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+}
+
 #post {
     background: white;
     padding: 1em;
 }
+
