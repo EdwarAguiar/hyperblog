@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background:black;
     color:#333;
     text-align: center;
     font-family: Arial;
@@ -54,5 +54,10 @@ body {
 #post {
     background: white;
     padding: 1em;
+}
+
+#post #equipo {
+    width: 70%;
+    align-items: center;
 }
 
